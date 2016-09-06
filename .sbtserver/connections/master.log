@@ -1,0 +1,7 @@
+New log file opened at Tue Sep 06 17:39:41 CST 2016 by 5904@LAPTOP-AHAVLMEL
+Taking next connection to: 55122
+New client attempting to connect on port: 55123-55122
+  Address = /192.168.1.24:55122
+This client on port 55123 has uuid f655b9a5-3f7e-444b-8c66-0e8829955f7c configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-f655b9a5-3f7e-444b-8c66-0e8829955f7c
+Taking next connection to: 55122
